@@ -23,17 +23,28 @@
 1. extractor.zip 파일을 압축해제합니다.
     - 압축파일 안에 있는 **vita_extractor.exe**과 **opencv_java3415.dll** 파일이 같은 위치에 있어야 합니다.
 
+![압축 해제 파일](https://user-images.githubusercontent.com/69888508/149287428-03d85e1e-7227-48f8-b873-ff32c5fc5928.png)
+
 
 2. **vita_extractor.exe**를 실행하면 Console 창에 경로를 입력하라는 문구가 나옵니다.
     - 나오지 않는다면 준비과정을 확인하세요.
 
+![첫 시작 화면](https://user-images.githubusercontent.com/69888508/149287472-c4a2dbcf-aa12-4152-ab2f-22a71fa6094b.png)
 
 3. 동영상 파일을 Console 창에 Drag & Drop 하거나 경로를 직접 입력하세요.
 
+![경로 입력](https://user-images.githubusercontent.com/69888508/149287486-f8e083b6-67a6-4841-8322-a294dbfbf13e.png)
 
 4. 경로를 입력하면 프레임 추출이 시작됩니다.
     - 프레임이 추출되지 않는다면 동영상 경로를 확인해주세요.(에러 문구 확인)
     - 동영상 경로에도 문제가 없다면 해당 동영상은 프레임으로 추출할 수 없습니다.
+
+![프레임 추출 과정](https://user-images.githubusercontent.com/69888508/149287490-7a45a689-ea7d-4e16-8e05-bc509f37c31a.png)
+
+5. 추출이 완료되면 추출된 경로를 확인할 수 있습니다.
+
+![추출 완료](https://user-images.githubusercontent.com/69888508/149287676-7b895ddb-ddef-4fae-9c57-c6aa5b8f5394.png)
+
 
 ## ※주의사항※
 
