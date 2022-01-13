@@ -45,6 +45,10 @@
 
 ![추출 완료](https://user-images.githubusercontent.com/69888508/149287676-7b895ddb-ddef-4fae-9c57-c6aa5b8f5394.png)
 
+6. 해당 경로의 images 폴더에서 추출된 프레임을 확인할 수 있습니다.
+
+![추출된 프레임](https://user-images.githubusercontent.com/69888508/149288108-304ff36c-098b-4a39-a6bc-a92063e6ce56.png)
+
 
 ## ※주의사항※
 
