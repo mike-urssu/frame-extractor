@@ -14,8 +14,8 @@
 
 ## 실행환경
 
-- Windows 10 기준으로 동작합니다.
-- JDK 1.8 버전 이상이 설치되어 있어야 합니다.
+- **Windows 10** 기준으로 동작합니다.
+- **JDK 1.8 버전 혹은 11 버전**이 설치되어 있어야 합니다.
     - https://www.oracle.com/java/technologies/downloads/
 
 ## 사용방법
