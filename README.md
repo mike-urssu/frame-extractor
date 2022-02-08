@@ -17,6 +17,7 @@
 - **Windows 10** 기준으로 동작합니다.
 - **JDK 1.8 버전 혹은 11 버전**이 설치되어 있어야 합니다.
     - https://www.oracle.com/java/technologies/downloads/
+- 시스템 환경변수 **JAVA_HOME**을 설정해야 합니다.
 
 ## 사용방법
 
